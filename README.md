@@ -10,7 +10,7 @@ I'm here to share my projects, knowledge and everything I'm learning and my expe
 
 - ✅ Data Analyst
  
-- ✅ I'm currently working as Freelancer
+- ✅ I'm currently working as Freenlancer
   
 - ✅ Based in Lisbon, Portugal
   
