@@ -19,17 +19,17 @@ something from here that makes sense to you 😄
 ## What you'll find in the repositories here? 💬
 
 -   ### DA/DE challenges made by technical interviews: 
-        -  chDA_interview: Data Analysis Challenges 
-        -  chDE_interview: Data Engineering Challenges
+          chDA_interview: Data Analysis Challenges 
+          chDE_interview: Data Engineering Challenges
 
 -   ### Portfolio Projects develop for me to practice of conceptions
-        - Data modeling, processing and cleaning
-        - Concepts of business rules
-        - Statistics and key concepts
-        - SQL Code
-        - Excel
-        - PowerBI        
-        - Python
+         Data modeling, processing and cleaning
+         Concepts of business rules
+         Statistics and key concepts
+         SQL Code
+         Excel
+         PowerBI        
+         Python
 
   (<a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"> </a> <a href="https://icons8.com"> </a>)
 
