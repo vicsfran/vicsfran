@@ -31,7 +31,7 @@ something from here that makes sense to you 😄
         - PowerBI        
         - Python
 
-  <a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"> </a> <a href="https://icons8.com"> </a>
+  (<a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"> </a> <a href="https://icons8.com"> </a>)
 
 
 
