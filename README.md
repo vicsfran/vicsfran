@@ -14,7 +14,7 @@ something from here that makes sense to you 😄
   
 - ✅ Based in Lisbon, Portugal
   
-- ✅ More about me [<img width="22" height="22" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/victorfrancati/)
+- ✅ More about me [<img width="22" height="22" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/victorfrancati/) [<a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn</a> icon by <a href="https://icons8.com">Icons8</a>] ( )
 
 ## What you'll find in the repositories here? 💬
 
