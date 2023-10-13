@@ -6,9 +6,9 @@ I'm Victor França and this is my world on GitHub 🌍
 
 I'm here to share my projects, knowledge and everything I'm learning and my experiences about the world of data.
 
-        Whether you're a recruiter, manager, director or colleague who works with data I hope you find what you 
-        need here and please feel free to contribute something, call me for a chat or use something from here that 
-        makes sense to you 😄
+Whether you're a recruiter, manager, director or colleague who works with data I hope you find what you 
+need here and please feel free to contribute something, call me for a chat or use something from here that 
+makes sense to you 😄
 
 - ✅ Data Analyst
  
