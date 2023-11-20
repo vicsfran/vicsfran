@@ -26,10 +26,10 @@ something from here that makes sense to you_ 😄
          Data modeling, processing and cleaning
          Concepts of business rules
          Statistics and key concepts
-         PP_Practice_SQL
-         PP_Practice_Excel
-         PP_Practice_PowerBI        
-         PP_Practice_Python
+         PP_Practice:SQL
+         PP_Practice:Excel
+         PP_Practice:PowerBI        
+         PP_Practice:Python
 
   (<a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"> </a> <a href="https://icons8.com"> </a>)
 
