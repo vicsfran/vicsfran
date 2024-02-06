@@ -10,7 +10,7 @@ something from here that makes sense to you_ 😄
 
 - ✅ Data Analyst
  
-- ✅ I'm currently working as Freelancer
+- ✅ I'm currently working as Data Analyst at (https://linkconsulting.com/))Link Consulting.
   
 - ✅ Based in Lisbon, Portugal
   
