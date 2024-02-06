@@ -9,11 +9,8 @@ director or colleague who works with data I hope you find what you need here and
 something from here that makes sense to you_ 😄
 
 - ✅ Data Analyst
- 
 - ✅ I'm currently working as Data Analyst at Link Consulting. [<img width="45" height="20" src="https://linkconsulting.com/wp-content/uploads/2019/03/LinkConsulting-logo-01.png" alt="linkedin"/>](https://linkconsulting.com/)
-  
 - ✅ Based in Lisbon, Portugal
-  
 - ✅ More about me [<img width="22" height="22" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/victorfrancati/)
 
 ## What you'll find in the repositories here? 💬
