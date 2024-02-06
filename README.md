@@ -10,9 +10,7 @@ something from here that makes sense to you_ 😄
 
 - ✅ Data Analyst
  
-- ✅ I'm currently working as Data Analyst at [<img width="22" height="22" src="https://linkconsulting.com/wp-content/uploads/2019/03/LinkConsulting-logo-01.png" alt="linkedin"/>](https://linkconsulting.com/) Link Consulting.
-
-- https://linkconsulting.com/wp-content/uploads/2019/03/LinkConsulting-logo-01.png
+- ✅ I'm currently working as Data Analyst at Link Consulting. [<img width="30" height="30" src="https://linkconsulting.com/wp-content/uploads/2019/03/LinkConsulting-logo-01.png" alt="linkedin"/>](https://linkconsulting.com/)
   
 - ✅ Based in Lisbon, Portugal
   
