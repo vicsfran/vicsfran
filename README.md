@@ -9,7 +9,7 @@ director or colleague who works with data I hope you find what you need here and
 something from here that makes sense to you_ 😄
 
 - ✅ Data Analyst / Data Engineer
-- ✅ I'm currently working as Data Engineer at Link Consulting. [<img width="45" height="20" src="https://linkconsulting.com/wp-content/uploads/2019/03/LinkConsulting-logo-01.png" alt="linkedin"/>](https://linkconsulting.com/)
+- ✅ I'm currently working as Big Data Engineer at Accenture. [<img width="45" height="20" src="[https://linkconsulting.com/wp-content/uploads/2019/03/LinkConsulting-logo-01.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Faccenture-logo%2F&psig=AOvVaw0ytzcT2IoJurUs5cMXKapW&ust=1725613218797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND9s7a4q4gDFQAAAAAdAAAAABAM)" alt="linkedin"/>]([https://linkconsulting.com/](https://www.accenture.com/pt-pt))
 - ✅ Based in Lisbon, Portugal
 - ✅ More about me [<img width="22" height="22" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/victorfrancati/)
 
