@@ -8,9 +8,9 @@ I'm here to share my **projects, knowledge and everything I'm learning and my ex
 director or colleague who works with data I hope you find what you need here and _please feel free to contribute something, call me for a chat or use 
 something from here that makes sense to you_ 😄
 
-- ✅ Data Analyst / Data Engineer
-- ✅ I'm currently working as Big Data Engineer at Accenture[<img width="45" height="20" src="https://logos-world.net/wp-content/uploads/2020/06/Accenture-Emblem.png" alt="linkedin"/>](https://www.accenture.com/pt-pt)
-- ✅ Based in Lisbon, Portugal
+- ✅ Data Analyst / Analytics Engineer / Data Engineer
+- ✅ I'm currently working as Analytics Engineer at Accenture[<img width="45" height="20" src="https://logos-world.net/wp-content/uploads/2020/06/Accenture-Emblem.png" alt="linkedin"/>](https://www.accenture.com/pt-pt)
+- ✅ Based in Sevilla, Spain
 - ✅ More about me [<img width="22" height="22" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/victorfrancati/)
 
 ## What you'll find in the repositories here? 💬
